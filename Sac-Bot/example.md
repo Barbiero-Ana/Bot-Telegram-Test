@@ -1,0 +1,3 @@
+EMAIL_USER=seu_email@gmail.com
+EMAIL_PASSWORD=sua_senha_aqui
+BOT_TOKEN=token_do_bot
